@@ -1,0 +1,5 @@
+def faren(f):
+  c = 5*(f-32)/9
+  return c 
+f = 102
+print(faren(f),"celcious")
